@@ -27,8 +27,8 @@ Open index.html in any browser
 
 Use menu to explore catalog and cart pages
 
-GitHub Repo:
-🔗 https://github.com/yourusername/cart-website-css3
+GitHub Repository:
+https://github.com/mdsana14/experiment2.git
 
 Live Demo:
 🌐 https://your-live-link.com/cart-website-css3
