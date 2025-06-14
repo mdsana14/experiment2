@@ -33,3 +33,18 @@ https://github.com/mdsana14/experiment2.git
 Live Demo:
 🌐 https://mdsana14.github.io/experiment2/
 
+screenshots:
+
+![Screenshot (1)](https://github.com/user-attachments/assets/7e43c343-8613-46f0-bd12-d37e839422be)
+
+![Screenshot (2)](https://github.com/user-attachments/assets/bb2df069-afa9-40df-a6c7-a255084d5d79)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/806506ce-f278-4106-b18c-a4508da336d4)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/df7e7ff1-1347-48de-ad1b-7250df5d013f)
+
+
+
+
+
+
